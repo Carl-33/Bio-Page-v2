@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+  color:#4aaaa5;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
