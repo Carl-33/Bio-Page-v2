@@ -1,6 +1,8 @@
 import React from "react";
-import Navbar from "../components/Navbar"
-import Footer from "../components/Footer"
+import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
+import "../style/contact.css"
+import resume from "../assets/carl-resume.pdf"
 
 function Contact() {
     return (
@@ -12,22 +14,19 @@ function Contact() {
                     <div className="col-lg-1 col-md-1 col-xs-2"></div>
                     <div className="card container col-lg-7 col-md-6 col-xs-8" id="contact-container">
                         <div className="card-body">
-                            <h1>Contact </h1>
+                            <h1>Contact Me </h1>
                             <hr></hr>
-                            <p>Name</p>
-                            <div className="input-group flex-nowrap">
-                                <input type="text" className="form-control" placeholder="Name" aria-label="Name" aria-describedby="addon-wrapping"></input>
-                            </div>
+                            <p>Email: koepkecj@gmail.com</p>
                             <br></br>
-                            <p>Email</p>
-                            <div className="input-group flex-nowrap">
-                                <input type="text" className="form-control" placeholder="Email" aria-label="Email" aria-describedby="addon-wrapping"></input>
-                            </div>
+                            <p>Phone: 612-364-6332</p>
                             <br></br>
-                            <p>Message</p>
-                            <textarea className="form-control" placeholder="Message" aria-label="Message"></textarea>
+                            <p className="contact-links">GitHub: </p><a className="contact-links" href="https://github.com/Carl-33">Carl-33</a>
                             <br></br>
-                            <button type="button" className="btn btn-info">Submit</button>
+                            <p className="contact-links">LinkdIn: </p><a className="contact-links" href="https://www.linkedin.com/in/carl-koepke-15844082/">LinkedIn Profile</a>
+                            <br></br>
+                            <p className="contact-links">Portfolio: </p><a className="contact-links" href={resume}>Resume</a>
+                            <br></br>
+                            
                         </div>
                     </div>
                     <div className="col-lg-4 col-md-5 col-xs-2"></div>
