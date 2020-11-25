@@ -1,0 +1,15 @@
+h1 {
+    color:#4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+#contact-card {
+    width: 80%;
+  }
+
+.hero {
+    background-image: url("../assets/background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}

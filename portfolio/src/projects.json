@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Quote Buddy",
+        "description": "A fun uplifting app that reads inspirational quotes outloud ot you in multiple different voices. Utilizes multiple API calls to pull a random quote, and then gives the user the option to have it read out loud with one of 9 voices.",
+        "repoHeader": "Repository: ",
+        "repoTag": "Quote Buddy Repository",
+        "repoLink": "https://github.com/LindseyM20/QuoteBuddy",
+        "deployedHeader": "Deployed: ",
+        "deployedTag": "Quote Buddy App",
+        "deployedLink": "https://lindseym20.github.io/QuoteBuddy/" ,
+        "screenshot": "https://i.imgur.com/896irOn.jpg",
+        "altText": "Quote Buddy"
+    },
+    {
+        "id": 2,
+        "title": "Team Manager Database",
+        "description": "Add and delete employees from the team manager database.  Utilizes multiple mySQL tables to create an extensive team mangement application.", 
+        "repoHeader": "Repository: ",
+        "repoTag": "Team Manager Repository",
+        "repoLink": "https://github.com/Carl-33/Team-Manager",
+        "deployedHeader": "",
+        "deployedTag": "",
+        "deployedLink": "" ,
+        "screenshot": "https://i.imgur.com/UkeflMR.gif",
+        "altText": "Team Manager Demo"
+        
+    },
+    {
+        "id": 3,
+        "title": "Budget Tracker PWA",
+        "description": "A budget tracking app that functions as a progressive web app.  So you can track your budget on the go with or without an internet connection.",
+        "repoHeader": "Repository: ",
+        "repoTag": "Budget Tracker Repository",
+        "repoLink": "https://github.com/Carl-33/Budget_Tracker",
+        "deployedHeader": "Deployed: ",
+        "deployedTag": "Budget Tracker PWA",
+        "deployedLink": "https://aqueous-ravine-62879.herokuapp.com/" ,
+        "screenshot": "https://i.imgur.com/5FpEpEM.gif",
+        "altText": "Budget Tracker Demo"
+    },
+    {
+        "id": 4,
+        "title": "Budget Tracker PWA",
+        "description": "A budget tracking app that functions as a progressive web app.  So you can track your budget on the go with or without an internet connection.",
+        "repoHeader": "Repository: ",
+        "repoTag": "Budget Tracker Repository",
+        "repoLink": "https://github.com/Carl-33/Budget_Tracker",
+        "deployedHeader": "Deployed: ",
+        "deployedTag": "Budget Tracker PWA",
+        "deployedLink": "https://aqueous-ravine-62879.herokuapp.com/" ,
+        "screenshot": "https://i.imgur.com/5FpEpEM.gif",
+        "altText": "Budget Tracker Demo"
+    },
+    {
+        "id": 5,
+        "title": "Budget Tracker PWA",
+        "description": "A budget tracking app that functions as a progressive web app.  So you can track your budget on the go with or without an internet connection.",
+        "repoHeader": "Repository: ",
+        "repoTag": "Budget Tracker Repository",
+        "repoLink": "https://github.com/Carl-33/Budget_Tracker",
+        "deployedHeader": "Deployed: ",
+        "deployedTag": "Budget Tracker PWA",
+        "deployedLink": "https://aqueous-ravine-62879.herokuapp.com/" ,
+        "screenshot": "https://i.imgur.com/5FpEpEM.gif",
+        "altText": "Budget Tracker Demo"
+    },
+    {
+        "id": 6,
+        "title": "Budget Tracker PWA",
+        "description": "A budget tracking app that functions as a progressive web app.  So you can track your budget on the go with or without an internet connection.",
+        "repoHeader": "Repository: ",
+        "repoTag": "Budget Tracker Repository",
+        "repoLink": "https://github.com/Carl-33/Budget_Tracker",
+        "deployedHeader": "Deployed: ",
+        "deployedTag": "Budget Tracker PWA",
+        "deployedLink": "https://aqueous-ravine-62879.herokuapp.com/" ,
+        "screenshot": "https://i.imgur.com/5FpEpEM.gif",
+        "altText": "Budget Tracker Demo"
+    }
+  
+]
