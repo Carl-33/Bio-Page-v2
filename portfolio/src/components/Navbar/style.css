@@ -3,11 +3,11 @@
 }
 
 h1 {
-    color:#4aaaa5;
+    color:#4aaa95;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .navbar-brand {
-    color: #4aaaa5;
+    color: #4aaa95;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .nav-link {
@@ -15,5 +15,5 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .active {
-    color: #4aaaa5;
+    color: #4aaa95;
 }
