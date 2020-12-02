@@ -6,12 +6,12 @@ function Navbar() {
     const location = useLocation();
 
     return (
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <span class="navbar-brand mb-0 h1 "> Carl Koepke </span>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
+        <nav className="navbar navbar-expand-lg navbar-light bg-light">
+            <span className="navbar-brand mb-0 h1 "> Carl Koepke </span>
+            <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                <span className="navbar-toggler-icon"></span>
             </button>
-           <div class="collapse navbar-collapse" id="navbarText">
+           <div className="collapse navbar-collapse" id="navbarText">
                 <ul className="nav justify-content-end">
                     <li className="nav-item">
                         <Link to="/" className={location.pathname === "/" || location.pathname === "/about"  ? "nav-link active" : "nav-link"}>

@@ -8,8 +8,9 @@ import ProjectCard from "../components/ProjectCard";
 function Portfolio() {
     return (
         <div>
+            <Navbar />
             <div className="hero">
-                <Navbar />
+                
                 <ProjectCard
                     title={projects[0].title}
                     description={projects[0].description}
@@ -82,8 +83,9 @@ function Portfolio() {
                     screenshot={projects[5].screenshot}
                     altText={projects[5].altText}
                 />
-                <Footer />
+                
             </div>
+            <Footer />
         </div>
     )
 
