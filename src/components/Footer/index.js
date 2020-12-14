@@ -6,9 +6,9 @@ function Footer() {
         <div>
             <div className="row" id="footer-stripe"></div>
             <div className="row footer" >
-                <div className="col-5"></div>
-                <span className="col-2 text-muted align-middle"> &copy; Carl Koepke</span>
-                <div className="col-5"></div>
+                <div className="col-4"></div>
+                <a className="col-4 text-muted align-middle" href="https://github.com/Carl-33"> &copy; Carl Koepke</a>
+                <div className="col-4"></div>
             </div>
         </div>
     )
