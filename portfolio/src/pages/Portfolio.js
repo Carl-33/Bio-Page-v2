@@ -83,6 +83,18 @@ function Portfolio() {
                     screenshot={projects[5].screenshot}
                     altText={projects[5].altText}
                 />
+                     <ProjectCard
+                    title={projects[6].title}
+                    description={projects[6].description}
+                    repoHeader={projects[6].repoHeader}
+                    repoTag={projects[6].repoTag}
+                    repoLink={projects[6].repoLink}
+                    deployedHeader={projects[6].deployedHeader}
+                    deployedTag={projects[6].deployedTag}
+                    deployedLink={projects[6].deployedLink}
+                    screenshot={projects[6].screenshot}
+                    altText={projects[6].altText}
+                />
                 
             </div>
             <Footer />

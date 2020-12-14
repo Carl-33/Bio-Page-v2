@@ -41,6 +41,20 @@
     },
     {
         "id": 4,
+        "title": "Watercooler",
+        "description": "Now that everyone is working from home, it's hard to have those small conversations aroung the watercooler.  This MERN application utilizes a Mongo database to store comments, a firebase database to store user login info, and a React front end to create a seameless app for conversing with your co-workers.",
+        "repoHeader": "Repository: ",
+        "repoTag": "Daily Planner Repository",
+        "repoLink": "https://github.com/Carl-33/Watercooler",
+        "deployedHeader": "Deployed: ",
+        "deployedTag": "Watercooler",
+        "deployedLink": "https://sheltered-cliffs-91068.herokuapp.com/" ,
+        "screenshot": "https://i.imgur.com/pRyhDoI.jpg",
+        "altText": "Daily Planner"
+    },
+    {
+        
+        "id": 5,
         "title": "Daily Planner",
         "description": "A helpful daily planner you can use to plan out your daily activities.  Tasks can be saved or deleted from local storage so you can come back later to check things off your to do list.  The formatting also changes by the hour to show the passage of time.",
         "repoHeader": "Repository: ",
@@ -53,7 +67,7 @@
         "altText": "Daily Planner"
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "Burger Battle",
         "description": "Need to decide once and for all who has the best burger in town? Burger Battle is here to settle the debate.  Add your favorite burger place to the Battle. Burger Battle utilizes a Mongo Data base so users can submit their favorite burger places, and vote for their best spot.  Comment section coming soon.",
         "repoHeader": "Repository: ",
@@ -66,7 +80,7 @@
         "altText": "Burger Battle"
     },
     {
-        "id": 6,
+        "id": 7,
         "title": "Budget Tracker PWA",
         "description": "A budget tracking app that functions as a progressive web app.  So you can track your budget on the go with or without an internet connection.",
         "repoHeader": "Repository: ",
