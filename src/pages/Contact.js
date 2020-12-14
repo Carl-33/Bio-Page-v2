@@ -20,12 +20,19 @@ function Contact() {
                             <br></br>
                             <p>Phone: 612-364-6332</p>
                             <br></br>
+                            <br></br>
+                            <h2> Connect With Me </h2>
+                            <hr></hr>
                             <p className="contact-links">GitHub: </p><a className="contact-links" href="https://github.com/Carl-33">Carl-33</a>
                             <br></br>
                             <p className="contact-links">LinkdIn: </p><a className="contact-links" href="https://www.linkedin.com/in/carl-koepke-15844082/">LinkedIn Profile</a>
                             <br></br>
-                            <p className="contact-links">Portfolio: </p><a className="contact-links" href={resume}>Resume</a>
+                            <p className="contact-links">Resume: </p><a className="contact-links" href={resume}>Resume</a>
                             <br></br>
+                            <p className="contact-links">Portfolio: </p><a className="contact-links" href="/portfolio">Portfolio</a>
+                            <br></br>
+                            <br></br>
+                            
                             
                         </div>
                     </div>

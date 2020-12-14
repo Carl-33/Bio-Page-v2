@@ -2,6 +2,10 @@ h1 {
     color:#4aaa95;
     font-family: Georgia, 'Times New Roman', Times, serif;
   }
+h2 {
+  color:#4aaa95;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
 #contact-card {
     width: 80%;
     margin-bottom: 100px;
