@@ -10,7 +10,24 @@ function Portfolio() {
         <div>
             <Navbar />
             <div className="hero">
-                
+
+
+                {/* {projects.map((projects, i)(
+                    <ProjectCard
+                        title={projects[i].title}
+                        description={projects[i].description}
+                        repoHeader={projects[i].repoHeader}
+                        repoTag={projects[i].repoTag}
+                        repoLink={projects[i].repoLink}
+                        deployedHeader={projects[i].deployedHeader}
+                        deployedTag={projects[i].deployedTag}
+                        deployedLink={projects[i].deployedLink}
+                        screenshot={projects[i].screenshot}
+                        altText={projects[i].altText}
+                    />
+
+
+                ))} */}
                 <ProjectCard
                     title={projects[0].title}
                     description={projects[0].description}
@@ -22,8 +39,8 @@ function Portfolio() {
                     deployedLink={projects[0].deployedLink}
                     screenshot={projects[0].screenshot}
                     altText={projects[0].altText}
-                />
-                <ProjectCard
+                /> 
+                 <ProjectCard
                     title={projects[1].title}
                     description={projects[1].description}
                     repoHeader={projects[1].repoHeader}
@@ -83,7 +100,7 @@ function Portfolio() {
                     screenshot={projects[5].screenshot}
                     altText={projects[5].altText}
                 />
-                     <ProjectCard
+                <ProjectCard
                     title={projects[6].title}
                     description={projects[6].description}
                     repoHeader={projects[6].repoHeader}
@@ -95,7 +112,7 @@ function Portfolio() {
                     screenshot={projects[6].screenshot}
                     altText={projects[6].altText}
                 />
-                
+
             </div>
             <Footer />
         </div>

@@ -8,7 +8,7 @@ h2 {
 }
 #contact-card {
     width: 80%;
-    margin-bottom: 100px;
+
   }
 
 .contact-links {
@@ -16,7 +16,7 @@ h2 {
 }
 
 .hero {
-    background-image: url("../assets/background.jpg");
+    background-image: url("../assets/background3.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
