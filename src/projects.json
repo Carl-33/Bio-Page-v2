@@ -44,7 +44,7 @@
         "title": "Watercooler",
         "description": "Now that everyone is working from home, it's hard to have those small conversations aroung the watercooler.  This MERN application utilizes a Mongo database to store comments, a firebase database to store user login info, and a React front end to create a seameless app for conversing with your co-workers.",
         "repoHeader": "Repository: ",
-        "repoTag": "Daily Planner Repository",
+        "repoTag": "Watercooler Repository",
         "repoLink": "https://github.com/Carl-33/Watercooler",
         "deployedHeader": "Deployed: ",
         "deployedTag": "Watercooler",

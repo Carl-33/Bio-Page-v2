@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import "../style/contact.css"
-import resume from "../assets/Resume-Carl-Koepke.docx.pdf"
+import resume from "../assets/Resume-Carl-Koepke.pdf"
 
 function Contact() {
     return (
