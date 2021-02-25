@@ -38,6 +38,8 @@ function Portfolio() {
                     deployedTag={projects[0].deployedTag}
                     deployedLink={projects[0].deployedLink}
                     screenshot={projects[0].screenshot}
+                    tech={projects[0].tech}
+                    techHeader={projects[0].techHeader}
                     altText={projects[0].altText}
                 /> 
                  <ProjectCard

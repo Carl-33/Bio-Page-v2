@@ -10,7 +10,9 @@
         "deployedTag": "Quote Buddy App",
         "deployedLink": "https://lindseym20.github.io/QuoteBuddy/" ,
         "screenshot": "https://i.imgur.com/896irOn.jpg",
-        "altText": "Quote Buddy"
+        "altText": "Quote Buddy",
+        "techHeader": "Technologies Used: ",
+        "tech": "HTML, CSS with Pure framework, JavaSCript, JQuery, Forismatic Quote API, and Voice RSS Text to Speach API."
     },
     {
         "id": 2,

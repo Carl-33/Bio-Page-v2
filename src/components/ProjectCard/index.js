@@ -11,13 +11,16 @@ function ProjectCard(props) {
            <h2 className="card-title">{props.title}</h2>
             <p >{props.description}</p>
             <div className="col-lg-2 col-md-2 col-sm-2 col-2"></div>
-
             <div className="row">
 
                 <div className="col-lg-2 col-md-2 col-sm-2 col-2"></div>
                 <img className="portfolio col-lg-8 col-md-8 col-sm-8 col-8" src={props.screenshot} alt={props.altText}></img>
                 <div className="col-lg-2 col-md-2 col-sm-2 col-2"></div>
                 <div className="card-body">
+                <div className="row">
+                    <h5 className="tech">{props.techHeader} </h5>
+                    <p>{props.tech}</p>
+                </div>
                     <div className="row">
                         <p>{props.repoHeader}</p>
                         <a href={props.repoLink} target="_blank">{props.repoTag}</a>
