@@ -56,7 +56,9 @@
         "deployedTag": "Watercooler",
         "deployedLink": "https://sheltered-cliffs-91068.herokuapp.com/" ,
         "screenshot": "https://i.imgur.com/pRyhDoI.jpg",
-        "altText": "Daily Planner"
+        "altText": "Daily Planner",
+        "techHeader": "Technologies Used: ",
+        "tech": "React, Firebase, MongoDB, Express, React, Node.js, and Material UI"
     },
     {
         
@@ -70,7 +72,9 @@
         "deployedTag": "Daily Planner",
         "deployedLink": "https://carl-33.github.io/Daily-Planner/" ,
         "screenshot": "https://i.imgur.com/Dz00EBO.jpg",
-        "altText": "Daily Planner"
+        "altText": "Daily Planner",
+        "techHeader": "Technologies Used: ",
+        "tech": "HTML, CSS, JavaScript, and Moment.js"
     },
     {
         "id": 6,
@@ -83,7 +87,9 @@
         "deployedTag": "Burger Battle",
         "deployedLink": "https://combusken-crew.herokuapp.com/" ,
         "screenshot": "https://i.imgur.com/Xk1IdTN.jpg",
-        "altText": "Burger Battle"
+        "altText": "Burger Battle",
+        "techHeader": "Technologies Used: ",
+        "tech": "HTML, CSS, MySQL, Bootstrap, JavaScript, JQuery, Sequelize, Express, and Node.js "
     },
     {
         "id": 7,
@@ -96,7 +102,9 @@
         "deployedTag": "Budget Tracker PWA",
         "deployedLink": "https://aqueous-ravine-62879.herokuapp.com/" ,
         "screenshot": "https://i.imgur.com/5FpEpEM.gif",
-        "altText": "Budget Tracker Demo"
+        "altText": "Budget Tracker Demo",
+        "techHeader": "Technologies Used: ",
+        "tech": "JavaScript, Manifest.json, Local Storage, Indexed DB, and Service Worker"
     }
   
 ]
