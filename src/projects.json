@@ -25,7 +25,9 @@
         "deployedTag": "",
         "deployedLink": "" ,
         "screenshot": "https://i.imgur.com/S40xf4Z.gif",
-        "altText": "Team Manager Demo"
+        "altText": "Team Manager Demo",
+        "techHeader": "Technologies Used: ",
+        "tech": "JavaScript, MySQL, Node.js, and InquirerJs"
         
     },
     {
@@ -39,7 +41,9 @@
         "deployedTag": "Weather Dashboard",
         "deployedLink": "https://carl-33.github.io/Weather/" ,
         "screenshot": "https://i.imgur.com/OsI3ZzN.jpg",
-        "altText": "Weather Dashboard"
+        "altText": "Weather Dashboard",
+        "techHeader": "Technologies Used: ",
+        "tech": "HTML, CSS, Bootstrap, JavaScript, Open Weather API, and Local Storage"
     },
     {
         "id": 4,

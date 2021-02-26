@@ -38,9 +38,9 @@ function Portfolio() {
                     deployedTag={projects[0].deployedTag}
                     deployedLink={projects[0].deployedLink}
                     screenshot={projects[0].screenshot}
+                    altText={projects[0].altText}
                     tech={projects[0].tech}
                     techHeader={projects[0].techHeader}
-                    altText={projects[0].altText}
                 /> 
                  <ProjectCard
                     title={projects[1].title}
@@ -53,6 +53,8 @@ function Portfolio() {
                     deployedLink={projects[1].deployedLink}
                     screenshot={projects[1].screenshot}
                     altText={projects[1].altText}
+                    tech={projects[1].tech}
+                    techHeader={projects[1].techHeader}
                 />
                 <ProjectCard
                     title={projects[2].title}
@@ -65,6 +67,8 @@ function Portfolio() {
                     deployedLink={projects[2].deployedLink}
                     screenshot={projects[2].screenshot}
                     altText={projects[2].altText}
+                    tech={projects[2].tech}
+                    techHeader={projects[2].techHeader}
                 />
                 <ProjectCard
                     title={projects[3].title}

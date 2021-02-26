@@ -1,20 +1,13 @@
-h1 {
+h1 h2 h3 h4 h5 {
     color:#4aaa95;
     font-family: Georgia, 'Times New Roman', Times, serif;
   }
-h2 {
-  color:#4aaa95;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-}
 #contact-card {
     width: 80%;
-
   }
-
 .contact-links {
   display: inline;
 }
-
 .hero {
     background-image: url("../assets/background3.jpg");
     background-position: center;
