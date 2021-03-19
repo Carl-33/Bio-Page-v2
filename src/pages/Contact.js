@@ -23,11 +23,11 @@ function Contact() {
                             <br></br>
                             <h2> Connect With Me </h2>
                             <hr></hr>
-                            <p className="contact-links">GitHub: </p><a className="contact-links" href="https://github.com/Carl-33">Carl-33</a>
+                            <p className="contact-links">GitHub: </p><a className="contact-links" href="https://github.com/Carl-33" target="_blank">Carl-33</a>
                             <br></br>
-                            <p className="contact-links">LinkdIn: </p><a className="contact-links" href="https://www.linkedin.com/in/carl-koepke-15844082/">LinkedIn Profile</a>
+                            <p className="contact-links">LinkdIn: </p><a className="contact-links" href="https://www.linkedin.com/in/carl-koepke/" target="_blank">LinkedIn Profile</a>
                             <br></br>
-                            <p className="contact-links">Resume: </p><a className="contact-links" href={resume}>Resume</a>
+                            <p className="contact-links">Resume: </p><a className="contact-links" href={resume} target="_blank">Resume</a>
                             <br></br>
                             <p className="contact-links">Portfolio: </p><a className="contact-links" href="/portfolio">Portfolio</a>
                             <br></br>
