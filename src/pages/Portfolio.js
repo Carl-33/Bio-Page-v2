@@ -10,8 +10,6 @@ function Portfolio() {
         <div>
             <Navbar />
             <div className="hero">
-
-
                 {/* {projects.map((projects, i)(
                     <ProjectCard
                         title={projects[i].title}
@@ -25,8 +23,6 @@ function Portfolio() {
                         screenshot={projects[i].screenshot}
                         altText={projects[i].altText}
                     />
-
-
                 ))} */}
                 <ProjectCard
                     title={projects[0].title}
