@@ -8,7 +8,7 @@ function Navbar() {
 
     return (
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
-            <img className="header-image" src={ logo } alt="CK Web Desins Logo"></img>
+            <img className="header-image" src={ logo } alt="CK Web Designs Logo"></img>
             <span className="navbar-brand mb-0 h1 "> Carl Koepke </span>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>

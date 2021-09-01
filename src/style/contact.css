@@ -5,6 +5,9 @@ h1, h2, h3, h4, h5 {
 #contact-card {
     width: 80%;
   }
+.contact-logo {
+  max-width: 200px;
+}
 .contact-links {
   display: inline;
 }
