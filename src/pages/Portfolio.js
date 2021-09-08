@@ -1,5 +1,5 @@
 import React from "react";
-import "../style/about.css";
+import "../style/portfolio.css";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import projects from "../projects.json";

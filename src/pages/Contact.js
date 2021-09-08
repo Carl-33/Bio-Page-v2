@@ -38,7 +38,7 @@ function Contact() {
                     </div>
                     <div className="col-lg-4 col-md-5 col-xs-2"></div>
                 </div>
-                <br></br>
+                <br></br><br></br><br></br><br></br><br></br><br></br>
             </div>
             <Footer />
         </div>
