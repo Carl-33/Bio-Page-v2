@@ -1,9 +1,9 @@
-.portfolioCards  {
+.card {
     margin: 10px;
     margin-top: 20px;
     outline-style: solid;
-    /* outline-color:#4aaa95; */
-    outline-color: goldenrod;
+    outline-color:#4aaa95;
+    /* outline-color: goldenrod; */
 }
 h2, h5 {
     color:#4aaa95; 
