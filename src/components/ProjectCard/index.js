@@ -23,13 +23,15 @@ function ProjectCard(props) {
                     <h5 className="tech">{props.techHeader} </h5>
                     <p>{props.tech}</p>
                 </div> */}
-                    <div className="row">
-                        {/* <p>{props.repoHeader}</p> */}
-                        <a href={props.repoLink} target="_blank">{props.repoTag}</a>
+                    <div className="row linksDiv">
+                        <div className="col-lg-4 col-md-4 col-sm-4 col-4"></div>
+                        <a calssName="col-lg-2 col-md-2 col-sm-2 col-2" href={props.repoLink} target="_blank">{props.repoTag}</a>
+                        <div className="col-lg-4 col-md-4 col-sm-4 col-4"></div>
                     </div>
-                    <div className="row">
-                        {/* <p>{props.deployedHeader}</p> */}
-                        <a href={props.deployedLink} target="_blank">{props.deployedTag}</a>
+                    <div className="row linksDiv">
+                    <div className="col-lg-4 col-md-4 col-sm-4 col-4"></div>
+                        <a calssName="col-lg-2 col-md-2 col-sm-2 col-2" href={props.deployedLink} target="_blank">{props.deployedTag}</a>
+                        <div className="col-lg-4 col-md-4 col-sm-4 col-4"></div>
                     </div>
                 </div>
             </div>

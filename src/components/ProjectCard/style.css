@@ -1,10 +1,15 @@
-.card {
+.portfolioCards  {
     margin: 10px;
     margin-top: 20px;
     outline-style: solid;
-    outline-color:#4aaa95;
+    /* outline-color:#4aaa95; */
+    outline-color: goldenrod;
 }
 h2, h5 {
     color:#4aaa95; 
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.farts {
+    text-align: center;
 }
