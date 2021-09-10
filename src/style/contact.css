@@ -2,8 +2,12 @@ h1, h2, h3, h4, h5 {
     color:#4aaa95;
     font-family: Georgia, 'Times New Roman', Times, serif;
   }
-#contact-card {
+#contact-container {
     width: 80%;
+    margin: 10px;
+    margin-top: 20px;
+    outline-style: solid;
+    outline-color:#4aaa95;
   }
 .contact-logo {
   max-width: 200px;

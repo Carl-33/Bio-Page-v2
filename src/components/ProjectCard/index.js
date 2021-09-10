@@ -6,7 +6,7 @@ function ProjectCard(props) {
     return (
         <div className="row">
             <div className="col-xl-1 col-lg-1 col-md-1 col-sm-2 col-2"></div>
-        <div className="card col-xl-7 col-lg-7 col-md-6 col-sm-8 col-8">
+        <div className="card project-card col-xl-7 col-lg-7 col-md-6 col-sm-8 col-8">
             <div className="card-body">
            <h2 className="card-title">{props.title}</h2>
             <p >{props.description}</p>

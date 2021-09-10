@@ -4,6 +4,10 @@ h1 {
   }
 #portfolio-card {
     width: 80%;
+    margin: 10px;
+    margin-top: 20px;
+    outline-style: solid;
+    outline-color:#4aaa95;
   }
 .Profile-Picture {
     max-width: 200px;
