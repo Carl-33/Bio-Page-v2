@@ -2,7 +2,7 @@ h1, h2, h3, h4, h5 {
     color:#4aaa95;
     font-family: Georgia, 'Times New Roman', Times, serif;
   }
-.hero {
+.portfolio-hero {
     background-image: url("../assets/background8.png");
     background-color: #4aaa95;
     background-blend-mode: screen;

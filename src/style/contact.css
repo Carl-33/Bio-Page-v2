@@ -15,12 +15,12 @@ h1, h2, h3, h4, h5 {
 .contact-links {
   display: inline;
 }
-.hero {
+.contact-hero {
   background-image: url("../assets/background8.png");
   background-color: #4aaa95;
   background-blend-mode: screen;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
+  background-position: center;
+  background-repeat: no-repeat;    
+  background-size: cover;
+  position: relative;
 }

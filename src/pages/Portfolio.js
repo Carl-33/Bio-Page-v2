@@ -9,7 +9,7 @@ function Portfolio() {
     return (
         <div>
             <Navbar />
-            <div className="hero">
+            <div className="portfolio-hero">
                 {/* {projects.map((projects, i)(
                     <ProjectCard
                         title={projects[i].title}

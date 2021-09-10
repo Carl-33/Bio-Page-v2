@@ -9,7 +9,7 @@ function About() {
     return (
         <div>
             <Navbar />
-            <div className="hero">
+            <div className="about-hero">
                 <br></br>
                 <div className="row">
                     <div className="col-lg-1 col-md-1 col-xs-2"></div>

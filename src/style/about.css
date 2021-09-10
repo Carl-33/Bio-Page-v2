@@ -19,7 +19,7 @@ h1 {
   float: right;
   margin-left: 10px;
 }
-.hero {
+.about-hero {
     background-image: url("../assets/background8.png");
     background-color: #4aaa95;
     background-blend-mode: screen;
