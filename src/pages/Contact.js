@@ -11,8 +11,8 @@ function Contact() {
             <div className="contact-hero">
                 <br></br>
                 <div className="row">
-                    <div className="col-lg-1 col-md-1 col-xs-2"></div>
-                    <div className="card container col-lg-7 col-md-6 col-xs-8" id="contact-container">
+                    <div className="col-lg-1 col-md-1 col-sm-2 col-2"></div>
+                    <div className="card container col-lg-7 col-md-6 col-sm-8 col-8" id="contact-container">
                         <div className="card-body">
                             <h1>Contact Me </h1>
                             <hr></hr>
@@ -36,7 +36,7 @@ function Contact() {
                             
                         </div>
                     </div>
-                    <div className="col-lg-4 col-md-5 col-xs-2"></div>
+                    <div className="col-lg-4 col-md-5 col-sm-2 col-2"></div>
                 </div>
                 <br></br><br></br><br></br><br></br><br></br><br></br>
             </div>

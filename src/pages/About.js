@@ -12,8 +12,8 @@ function About() {
             <div className="about-hero">
                 <br></br>
                 <div className="row">
-                    <div className="col-lg-1 col-md-1 col-xs-2"></div>
-                    <div className="card container col-lg-7 col-md-6 col-xs-8" id="portfolio-card" >
+                    <div className="col-lg-1 col-md-1 col-sm-2 col-2"></div>
+                    <div className="card container col-lg-7 col-md-8 col-sm-8 col-8" id="portfolio-card" >
                         <div className="card-body">
                             <h1>About Me</h1>
                             <hr></hr>
@@ -25,7 +25,7 @@ function About() {
                             <p>At the start of the Covid-19 pandemic in 2020, I was lucky enough to be able to work from home for the first few months.  As a result of my kidney transplant and the myriad of imuno-suppresant medications I have to take, I am very high risk for the virus.  This eventually resulted in me losing my job, and starting a virtual coding bootcamp at the University of Minnesota. Hopefully a bright future in coding is ahead of me.   </p>
                         </div>
                     </div>
-                    <div className="col-lg-4 col-md-5 col-xs-2"></div>
+                    <div className="col-lg-4 col-md-3 col-sm-2 col-2"></div>
                 </div>
                 <br></br>
             </div>
