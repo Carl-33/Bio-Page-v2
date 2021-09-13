@@ -3,7 +3,7 @@ import Navbar from "../components/Navbar"
 import Footer from "../components/Footer"
 import "../style/about.css"
 import me from "../assets/me-photo.jpg"
-import logo from "../assets/CK-Logo.png"
+import logo from "../assets/CK-Logo-2.png"
 
 function About() {
     return (
