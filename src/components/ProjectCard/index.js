@@ -28,6 +28,7 @@ function ProjectCard(props) {
                         <a calssName="col-lg-2 col-md-2 col-sm-2 col-2" href={props.repoLink} target="_blank">{props.repoTag}</a>
                         <div className="col-lg-4 col-md-4 col-sm-4 col-4"></div>
                     </div>
+                    <br></br>
                     <div className="row linksDiv">
                     <div className="col-lg-4 col-md-4 col-sm-4 col-4"></div>
                         <a calssName="col-lg-2 col-md-2 col-sm-2 col-2" href={props.deployedLink} target="_blank">{props.deployedTag}</a>
